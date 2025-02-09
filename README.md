@@ -44,9 +44,9 @@ let userObject = {
 
 ### Projects Links
 
-[React Application]('https://github.com/disayres/react-app.git')
+[React Application]('https://github.com/disayres/react-app/')
 
-[Coffee Shop]('https://github.com/disayres/Coofee-Shop')
+[Coffee Shop]('https://github.com/disayres/Coofee-Shop/')
 
 [Black JS Tutorial]("https://sabzlearn.ir/course/black-js/")
 
