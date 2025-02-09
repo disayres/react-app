@@ -44,12 +44,17 @@ let userObject = {
 
 ### Projects Links
 
-[React Application]('https://github.com/disayres/react-app/')
+[React Application](https://github.com/disayres/react-app/)
 
-[Coffee Shop]('https://github.com/disayres/Coofee-Shop/')
+[Coffee Shop](https://github.com/disayres/Coofee-Shop/)
 
-[Black JS Tutorial]("https://sabzlearn.ir/course/black-js/")
+[Black JS Tutorial](https://sabzlearn.ir/course/black-js/)
 
 ---
 
 ### Images
+
+![badge](./public/images/apple-watch.png)
+![badge](https://img.shields.io/badge/Sell_/_Month-5M-yellow)
+
+---
