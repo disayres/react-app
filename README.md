@@ -1,8 +1,41 @@
-# React + Vite
+# React Training Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Description
 
-Currently, two official plugins are available:
+this repo is only for training and learning `react` and `github command` . So please don't expect anything strange.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+#### How To Use React
+
+```
+npx create-react-app my-app
+```
+
+This code snippet will create a React project for you.
+
+---
+
+### Use JS
+
+now we got to use a simple javascript code for training with readme file and github repository
+
+```javascript
+let userObject = {
+  id: 1,
+  firstName: "Ali",
+  lastName: "Papi",
+  age: 18,
+};
+```
+
+---
+
+### Simple Front-End Roadmap
+
+- HTML 5
+- CSS 3
+- Javascript
+- Bootstrap 5
+- tailwindcss 4
+- React v19
